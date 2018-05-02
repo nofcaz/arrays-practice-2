@@ -1,4 +1,4 @@
-# Extended Practice With Arrays
+# Extended Practice with Arrays
 
 This set of exercises helped me to become more comfortable with the following array functions: ```array.some()```, ```array.every()```, ```array.find()```, and ```array.slice()```.
 
